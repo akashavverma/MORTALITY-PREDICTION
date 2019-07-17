@@ -1,7 +1,7 @@
 # MORTALITY-PREDICTION
 This is my first Internship Project on Deep Learning. 
 
-To be, or not to be? Mortality Prediction Challenge
+``To be, or not to be? Mortality Prediction Challenge
 The main question of this challenge is: How to predict the survival of a patient given his or her medical record? More specifically, you will have to predict whether or not the patients died during their stay at the hospital.
 
 Background
