@@ -26,6 +26,10 @@ The task is to create a model able to learns from the data and make predictions 
 
 https://codalab.lri.fr/competitions/566#participate-get_starting_kit
 
+Check the competition here : https://competitions.codalab.org/competitions/19365#learn_the_details
+
+The competiton was updated on the new server of Codalab in 2022 : https://codalab.lisn.upsaclay.fr/competitions/3073#learn_the_details
+
 
 
 
