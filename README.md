@@ -31,5 +31,5 @@ Check the competition here : https://competitions.codalab.org/competitions/19365
 The competiton was updated on the new server of Codalab in 2022 : https://codalab.lisn.upsaclay.fr/competitions/3073#learn_the_details
 
 
-
+The published paper for the above can be found here : https://ieeexplore.ieee.org/document/8971566
 
